@@ -1,0 +1,24 @@
+what is database?
+-> it is a collection of related databasesss
+
+
+
+DB keys
+-> keys are set of attributes that helps us to uniquely identify a record in diffrent situation
+
+	-superkey, compositekey, primaryKey, forignKey, alternative
+
+1. SuperKey: a set of attributes within a table that can uniquely identify a record
+
+
+2.) candidateKey : the minimum set of attributes that can uniquely identify a record
+
+3.) compositeKey: A key that consist of 2 or more than 2 attributes, that togather uniquely identify a record.
+
+4.) primaryKey: there can be more than one condidate key , we can choose anyone none null condidateKey to become primary key.
+
+5.) AlternateKey: all condidate keys apart from primary key are alternate keys.
+
+6.) forignKey: it is an attribute which is primary key in some other table.
+
+
